@@ -1,0 +1,14 @@
+h1 {
+    -webkit-text-stroke-width: medium;
+    text-align: center
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-align: center;
+}
+
+.top buttons{
+  align-items: center;
+}
